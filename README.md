@@ -57,7 +57,10 @@ pnpm dev
 # or
 bun dev
 ```
+# 📡 Contact Me :-
 
+- 📧 Email: nihalsharma251717@gmail.com
+- 📱 Mobile: 8988732139
 
 You can start editing the page by modifying `src/App.jsx`. The page auto-updates as you edit the file.
 
